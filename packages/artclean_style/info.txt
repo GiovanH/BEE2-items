@@ -1,0 +1,28 @@
+"ID"    "CLEAN_THERAPY"
+"Name"  "Cleaner Art Therapy"
+
+	
+"Style"
+	{
+	"ID"			"CLEAN_THERAPY"
+	"Authors"		"GiovanH"
+	"Folder"        "artclean"
+	"Icon"          "styles/artclean.png"
+	"IconLarge"     "prev/artclean.png"
+	"Name"			"Cleaner Art Therapy"
+	"ShortName"		"Clean Art"
+	"Base"			"BEE2_CLEAN"
+	
+	"Has_Video"		"1"
+	"Description"
+		{
+		"" "A cleaner version of Art Therapy, with plastic walls but less BTS"
+		}
+	"Suggested"
+		{
+		"Quote"  "<NONE>"
+		"Music"  "VALVE_PETI"
+		"Skybox" "BEE2_CLEAN"
+		"Elev"   "VALVE_APERTURE_LOGO"
+		}
+	}
